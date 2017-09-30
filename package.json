@@ -1,5 +1,15 @@
 {
   "name": "c18_squad_albums",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/henryarbolaez/c18_squad_albums.git",
+  "author": "Henry Arbolaez <henryarbolaez@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "bootstrap": "4.0.0-alpha.6"
+  }
 }
